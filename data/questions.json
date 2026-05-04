@@ -10,7 +10,7 @@
       "id": "emotionen",
       "name": "Emotionen",
       "icon": "🎭",
-      "description": "Öğrenciler; neden-sonuç ve zıtlık bildiren bağlaçları kullanarak hem kendi duygularını hem de başkalarının ruh hallerini, dilbilgisi kurallarına uygun ve mantıksal bir çerçevede ifade etme becerisi kazanırlar.",
+      "description": "Öğrenciler; 'weil, obwohl, trotzdem, sondern' bağlaçlarını kullanarak kendilerinin ve başkalarının duygularını, neden-sonuç ve zıtlık ilişkileri çerçevesinde ifade ederler.",
       "questions": [
         {
           "id": "emo_001",
@@ -610,6 +610,306 @@
             "weil er einen Fehler gemacht hat."
           ],
           "answer": 3,
+          "duration": 40
+        },
+        {
+          "id": "emo_041",
+          "type": "multiple_choice",
+          "text": "Er ist sehr wütend, ...",
+          "sound": "emo_041.mp3",
+          "soundText": "Er ist sehr wütend, ...",
+          "options": [
+            "weil sein Freund ihn angelogen hat.",
+            "obwohl sein Freund ihn angelogen hat.",
+            "sondern sein Freund ihn angelogen hat.",
+            "trotzdem sein Freund ihn angelogen hat."
+          ],
+          "answer": 0,
+          "duration": 40
+        },
+        {
+          "id": "emo_042",
+          "type": "multiple_choice",
+          "text": "Ich bin heute nicht traurig, ...",
+          "sound": "emo_042.mp3",
+          "soundText": "Ich bin heute nicht traurig, ...",
+          "options": [
+            "weil ich glücklich bin.",
+            "trotzdem ich glücklich bin.",
+            "sondern ich bin glücklich.",
+            "obwohl ich glücklich bin."
+          ],
+          "answer": 2,
+          "duration": 40
+        },
+        {
+          "id": "emo_043",
+          "type": "multiple_choice",
+          "text": "Sie weint vor Glück, ...",
+          "sound": "emo_043.mp3",
+          "soundText": "Sie weint vor Glück, ...",
+          "options": [
+            "obwohl sie die Prüfung bestanden hat.",
+            "weil sie die Prüfung bestanden hat.",
+            "sondern sie die Prüfung bestanden hat.",
+            "deshalb sie die Prüfung bestanden hat."
+          ],
+          "answer": 1,
+          "duration": 40
+        },
+        {
+          "id": "emo_044",
+          "type": "multiple_choice",
+          "text": "Er hat große Angst vor Hunden. ...",
+          "sound": "emo_044.mp3",
+          "soundText": "Er hat große Angst vor Hunden...",
+          "options": [
+            "Weil geht er im Park spazieren.",
+            "Sondern geht er im Park spazieren.",
+            "Obwohl geht er im Park spazieren.",
+            "Trotzdem geht er im Park spazieren."
+          ],
+          "answer": 3,
+          "duration": 40
+        },
+        {
+          "id": "emo_045",
+          "type": "multiple_choice",
+          "text": "Wir sind erschrocken, ...",
+          "sound": "emo_045.mp3",
+          "soundText": "Wir sind erschrocken, ...",
+          "options": [
+            "weil es plötzlich laut an der Tür geklopft hat.",
+            "obwohl es plötzlich laut an der Tür geklopft hat.",
+            "trotzdem es plötzlich laut an der Tür geklopft hat.",
+            "sondern es plötzlich laut an der Tür geklopft hat."
+          ],
+          "answer": 0,
+          "duration": 40
+        },
+        {
+          "id": "emo_046",
+          "type": "multiple_choice",
+          "text": "Maria ist nicht nachdenklich, ...",
+          "sound": "emo_046.mp3",
+          "soundText": "Maria ist nicht nachdenklich, ...",
+          "options": [
+            "weil sie Probleme hat.",
+            "obwohl sie Probleme hat.",
+            "sondern sie ist einfach nur müde.",
+            "trotzdem sie einfach nur müde ist."
+          ],
+          "answer": 2,
+          "duration": 40
+        },
+        {
+          "id": "emo_047",
+          "type": "multiple_choice",
+          "text": "Ich fühle mich einsam, ...",
+          "sound": "emo_047.mp3",
+          "soundText": "Ich fühle mich einsam, ... ",
+          "options": [
+            "weil  ich viele Freunde habe.",
+            "obwohl  ich viele Freunde habe.",
+            "sondern  ich viele Freunde habe.",
+            "denn  ich viele Freunde habe."
+          ],
+          "answer": 1,
+          "duration": 40
+        },
+        {
+          "id": "emo_048",
+          "type": "multiple_choice",
+          "text": "Es geht mir heute schlecht. ... ",
+          "sound": "emo_048.mp3",
+          "soundText": "Es geht mir heute schlecht. ...",
+          "options": [
+            "Trotzdem versuche ich zu lächeln.",
+            "Weil versuche ich zu lächeln.",
+            "Obwohl versuche ich zu lächeln.",
+            "Sondern versuche ich zu lächeln."
+          ],
+          "answer": 0,
+          "duration": 40
+        },
+        {
+          "id": "emo_049",
+          "type": "multiple_choice",
+          "text": "Thomas ist sehr aufgeregt, ... ",
+          "sound": "emo_049.mp3",
+          "soundText": "Thomas ist sehr aufgeregt, ...",
+          "options": [
+            "obwohl er morgen seine erste Fahrstunde hat.",
+            "trotzdem er morgen seine erste Fahrstunde hat.",
+            "weil er morgen seine erste Fahrstunde hat.",
+            "sondern er morgen seine erste Fahrstunde hat."
+          ],
+          "answer": 2,
+          "duration": 40
+        },
+        {
+          "id": "emo_050",
+          "type": "multiple_choice",
+          "text": "Sie ist nicht enttäuscht, ...",
+          "sound": "emo_050.mp3",
+          "soundText": "Sie ist nicht enttäuscht, ...",
+          "options": [
+            "weil sie verloren hat.",
+            "sondern sie ist stolz auf ihre Leistung.",
+            "obwohl sie stolz auf ihre Leistung ist.",
+            "trotzdem sie verloren hat."
+          ],
+          "answer": 1,
+          "duration": 40
+        },
+        {
+          "id": "emo_051",
+          "type": "multiple_choice",
+          "text": "Ich bin heute sehr entspannt, ... ",
+          "sound": "emo_051.mp3",
+          "soundText": "Ich bin heute sehr entspannt ...",
+          "options": [
+            "weil ich viel Arbeit hatte.",
+            "obwohl ich viel Arbeit hatte.",
+            "sondern ich viel Arbeit hatte.",
+            "trotzdem ich viel Arbeit hatte."
+          ],
+          "answer": 1,
+          "duration": 40
+        },
+        {
+          "id": "emo_052",
+          "type": "multiple_choice",
+          "text": "Er ist nicht wütend auf dich, ...",
+          "sound": "emo_052.mp3",
+          "soundText": "Er ist nicht wütend auf dich, ...",
+          "options": [
+            "weil er traurig ist.",
+            "obwohl er traurig ist.",
+            "sondern er macht sich nur Sorgen.",
+            "trotzdem er sich nur Sorgen macht."
+          ],
+          "answer": 2,
+          "duration": 40
+        },
+        {
+          "id": "emo_053",
+          "type": "multiple_choice",
+          "text": "Sie hat die ganze Nacht gelernt. ... ",
+          "sound": "emo_053.mp3",
+          "soundText": "Sie hat die ganze Nacht gelernt. ...",
+          "options": [
+            "Obwohl ist sie vor der Prüfung nervös.",
+            "Weil ist sie vor der Prüfung nervös.",
+            "Trotzdem ist sie vor der Prüfung nervös.",
+            "Sondern ist sie vor der Prüfung nervös."
+          ],
+          "answer": 2,
+          "duration": 40
+        },
+        {
+          "id": "emo_054",
+          "type": "multiple_choice",
+          "text": "Wir freuen uns sehr, ... ",
+          "sound": "emo_054.mp3",
+          "soundText": "Wir freuen uns sehr, ... ",
+          "options": [
+            "weil du uns bald besuchst.",
+            "obwohl du uns bald besuchst.",
+            "trotzdem du uns bald besuchst.",
+            "sondern du uns bald besuchst."
+          ],
+          "answer": 0,
+          "duration": 40
+        },
+        {
+          "id": "emo_055",
+          "type": "multiple_choice",
+          "text": "Ich lache nicht über dich, ...",
+          "sound": "emo_055.mp3",
+          "soundText": "Ich lache nicht über dich, ...",
+          "options": [
+            "weil der Film lustig ist.",
+            "sondern ich lache über den Film.",
+            "obwohl der Film lustig ist.",
+            "trotzdem ich über den Film lache."
+          ],
+          "answer": 1,
+          "duration": 40
+        },
+        {
+          "id": "emo_056",
+          "type": "multiple_choice",
+          "text": "Der Junge ist schüchtern, ... ",
+          "sound": "emo_056.mp3",
+          "soundText": "Der Junge ist schüchtern, ...",
+          "options": [
+            "obwohl er niemanden im Raum kennt.",
+            "weil er niemanden im Raum kennt.",
+            "sondern er niemanden im Raum kennt.",
+            "trotzdem er niemanden im Raum kennt."
+          ],
+          "answer": 1,
+          "duration": 40
+        },
+        {
+          "id": "emo_057",
+          "type": "multiple_choice",
+          "text": "Meine Schwester ist enttäuscht, ... ",
+          "sound": "emo_057.mp3",
+          "soundText": "Meine Schwester ist enttäuscht, ...",
+          "options": [
+            "weil sie keine Einladung bekommen hat.",
+            "obwohl sie keine Einladung bekommen hat.",
+            "trotzdem sie keine Einladung bekommen hat.",
+            "sondern sie keine Einladung bekommen hat."
+          ],
+          "answer": 0,
+          "duration": 40
+        },
+        {
+          "id": "emo_058",
+          "type": "multiple_choice",
+          "text": "Es war ein Horrorfilm. ...",
+          "sound": "emo_058.mp3",
+          "soundText": "Es war ein Horrorfilm. ... hatte ich keine Angst.",
+          "options": [
+            "Weil  hatte ich keine Angst.",
+            "Obwohl  hatte ich keine Angst.",
+            "Sondern  hatte ich keine Angst.",
+            "Trotzdem  hatte ich keine Angst."
+          ],
+          "answer": 3,
+          "duration": 40
+        },
+        {
+          "id": "emo_059",
+          "type": "multiple_choice",
+          "text": "Er fühlt sich heute einsam, ... ",
+          "sound": "emo_059.mp3",
+          "soundText": "Er fühlt sich heute einsam, ... er auf einer großen Party ist.",
+          "options": [
+            "weil er auf einer großen Party ist.",
+            "obwohl er auf einer großen Party ist.",
+            "sondern er auf einer großen Party ist.",
+            "denn er auf einer großen Party ist."
+          ],
+          "answer": 1,
+          "duration": 40
+        },
+        {
+          "id": "emo_060",
+          "type": "multiple_choice",
+          "text": "Wir sind nicht überrascht, ...",
+          "sound": "emo_060.mp3",
+          "soundText": "Wir sind nicht überrascht, ...",
+          "options": [
+            "weil wir es schon wussten.",
+            "obwohl wir es schon wussten.",
+            "sondern wir haben das Ergebnis erwartet.",
+            "trotzdem wir das Ergebnis erwartet haben."
+          ],
+          "answer": 2,
           "duration": 40
         }
       ]

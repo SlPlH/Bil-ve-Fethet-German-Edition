@@ -351,10 +351,9 @@ class BoardApp {
     
     this.els.qCategoryIcon.textContent = this.currentQuestion.categoryIcon;
     this.els.qCategoryName.textContent = this.currentQuestion.categoryName;
-    this.els.qCategoryDescription.textContent = this.currentQuestion.categoryDescription || "";
     
-    // Hide description if empty to save space
-    this.els.qCategoryDescription.style.display = this.currentQuestion.categoryDescription ? 'block' : 'none';
+    // Kazanım açıklaması soru esnasında gizlendi (İstek üzerine)
+    this.els.qCategoryDescription.style.display = 'none';
     
     this.els.qTypeBadge.className = 'q-type-badge ' + (this.currentQuestion.type === 'multiple_choice' ? 'q-type-mc' : 'q-type-num');
     this.els.qTypeBadge.textContent = this.currentQuestion.type === 'multiple_choice' ? 'Multiple Choice' : 'Zahl eingeben';
