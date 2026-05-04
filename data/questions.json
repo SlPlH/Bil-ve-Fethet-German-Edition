@@ -605,7 +605,7 @@
           "soundText": "Er fühlt sich schuldig, ___",
           "options": [
             "aber er einen Fehler gemacht hat.",
-            "obwohl er nichts falsch gemacht hat.",
+            "obwohl er falsch gemacht hat.",
             "sondern er einen Fehler gemacht hat.",
             "weil er einen Fehler gemacht hat."
           ],
@@ -695,7 +695,7 @@
           "soundText": "Maria ist nicht nachdenklich, ...",
           "options": [
             "weil sie Probleme hat.",
-            "obwohl sie Probleme hat.",
+            "obwohl sie keine Probleme hat.",
             "sondern sie ist einfach nur müde.",
             "trotzdem sie einfach nur müde ist."
           ],
