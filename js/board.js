@@ -331,12 +331,8 @@ class BoardApp {
     this.roundAnswers = [];
     
     if (this.questionPool.length === 0) {
-      if (this._allQuestions && this._allQuestions.length > 0) {
-        this.questionPool = shuffle([...this._allQuestions]);
-      } else {
-        this.endGame();
-        return;
-      }
+      this.endGame();
+      return;
     }
 
     this.currentQuestion = this.questionPool.pop();
